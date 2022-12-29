@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhi1223Gupta
+- 👋<b> Hi, I’m Abhi Gupta </b>
 - 👀 I’m interested in Web Development,
 - 🌱 I’m currently learning C++ & JavaScript.
 
